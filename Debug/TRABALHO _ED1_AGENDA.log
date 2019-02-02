@@ -1,0 +1,76 @@
+﻿  Source.c
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(74): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(67): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(73): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(75): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(76): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(85): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(87): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(100): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(102): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(112): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(114): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(123): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(125): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(126): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(135): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(136): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(137): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(146): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(148): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(149): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(158): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(159): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(160): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(169): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(171): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(172): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(181): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(183): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(229): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(231): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(237): warning C4101: 'letra': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(293): warning C4101: 'novoIndice': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(479): warning C4133: '==': incompatible types - from 'Tcontato *' to 'indice *'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(530): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+c:\users\dkaus\documents\visual studio 2017\projects\trabalho _ed1_agenda\source.c(532): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: see declaration of 'setbuf'
+  TRABALHO _ED1_AGENDA.vcxproj -> C:\Users\dkaus\Documents\Visual Studio 2017\Projects\TRABALHO _ED1_AGENDA\Debug\TRABALHO _ED1_AGENDA.exe
